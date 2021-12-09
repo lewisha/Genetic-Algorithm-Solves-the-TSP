@@ -2,6 +2,6 @@
 
 There are many solutions to sovle the problems
 I choose three different algorithms as below,
-Genetic Method
-Simulated Annealing
-and 
+GM, Genetic Method
+SA, Simulated Annealing
+ACA, Ant Colony Algorithm
