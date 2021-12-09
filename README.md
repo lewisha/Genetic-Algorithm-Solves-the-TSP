@@ -1,3 +1,7 @@
-# Genetic-Algorithm-Solves-the-TSP
+# Hueristic-Algorithm-Solves-the-TSP
 
-This is only one of the solutions to sovle the problems
+There are many solutions to sovle the problems
+I choose three different algorithms as below,
+Genetic Method
+Simulated Annealing
+and 
